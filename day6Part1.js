@@ -29,3 +29,5 @@ function window(string, start) {
 function charRepeats(str) {
     return !/(\w).*\1/i.test(str);
 };
+
+// Answer is 
